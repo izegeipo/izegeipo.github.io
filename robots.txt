@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://izegeipo.github.io/Rnp/sitemap_index.txt
+Sitemap: https://izegeipo.github.io/bTx/sitemap_index.txt
+Sitemap: https://izegeipo.github.io/sFq/sitemap_index.txt
+Sitemap: https://izegeipo.github.io/ugc/sitemap_index.txt
